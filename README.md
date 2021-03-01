@@ -2,7 +2,7 @@
 ## About me
 My name is Duc Long. I am a fresher android developer.
 - 🌱 I’m currently learning Android Kotlin 
-- this is my cv <vietnamese> : [CV_NguyenDucLong_TTSMobile.pdf](https://github.com/DucLongDTH/ApiNodeJS/files/6062924/CV_NguyenDucLong_TTSMobile.pdf)
+- 💼 This is my cv [vietnamese] : [CV_NguyenDucLong_TTSMobile.pdf](https://github.com/DucLongDTH/ApiNodeJS/files/6062924/CV_NguyenDucLong_TTSMobile.pdf)
 ](url)
 ## Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
