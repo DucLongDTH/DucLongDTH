@@ -1,8 +1,8 @@
 ### Hi there, I'm Long 👋💨💨💥
 ## About me
-My name is Duc Long. I am a fresher android developer.
-- 🌱 I’m currently learning Android Kotlin 
-- 💼 This is my cv [vietnamese] : [CV_NguyenDucLong_TTSMobile.pdf](https://github.com/DucLongDTH/DucLongDTH/files/6356612/CV_NguyenDucLong_TTSMobile.pdf)
+My name is Duc Long. I am a junior moblie developer.
+- 🌱 I’m currently learning Android Kotlin , Flutter
+- 💼 This is my cv [vietnamese] : [CV_NguyenDucLong_TTSMobile.pdf](https://github.com/DucLongDTH/DucLongDTH/files/9929903/NDLCV.pdf)
 ## Languages and Tools:
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></code>
